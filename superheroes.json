@@ -1,0 +1,32 @@
+[
+	{
+	  "imagen": "assets/spiderman.jpg",
+	  "nombre": "Spider-Man",
+	  "identidad": "Peter Parker",
+	  "descripcion": "Peter Parker, un estudiante de secundaria, fue mordido por una araña radiactiva, otorgándole habilidades sobrehumanas. Ahora lucha contra el crimen en Nueva York como Spider-Man, balanceándose entre rascacielos y enfrentando villanos con su agudo sentido arácnido y su destreza acrobática."
+	},
+	{
+	  "imagen": "assets/capitan.jpg",
+	  "nombre": "Captain America",
+	  "identidad": "Steve Rogers",
+	  "descripcion": "Steve Rogers, un joven débil pero valiente, se somete a un experimento que lo transforma en el súper soldado Captain America. Lidera a los Avengers y lucha contra las amenazas globales con su escudo indestructible y sus habilidades mejoradas."
+	},
+	{
+	  "imagen": "assets/back.jpg",
+	  "nombre": "Black Widow",
+	  "identidad": "Natasha Romanoff",
+	  "descripcion": "Natasha Romanoff, también conocida como Black Widow, es una hábil espía y asesina con habilidades de combate excepcionales. Inicialmente una agente de la KGB, se une a S.H.I.E.L.D. y más tarde a los Avengers, desempeñando un papel crucial en la lucha contra el crimen."
+	},
+	{
+	  "imagen": "assets/ironman.jpg",
+	  "nombre": "Iron Man",
+	  "identidad": "Tony Stark",
+	  "descripcion": "Tony Stark, un genio multimillonario, fabricante de armas y playboy, sufre una lesión grave en el pecho durante un secuestro. Para salvarse, crea un traje de alta tecnología y se convierte en Iron Man, luchando contra amenazas tanto internas como externas."
+	},
+	{
+	  "imagen": "assets/thor.jpg",
+	  "nombre": "Thor",
+	  "identidad": "Thor Odinson",
+	  "descripcion": "Thor, dios del trueno y príncipe de Asgard, es desterrado a la Tierra. Posee un martillo encantado, Mjolnir, que le otorga poderes sobrehumanos. Thor protege la Tierra como miembro de los Avengers y defiende la paz en los Nueve Reinos."
+	}
+  ]
